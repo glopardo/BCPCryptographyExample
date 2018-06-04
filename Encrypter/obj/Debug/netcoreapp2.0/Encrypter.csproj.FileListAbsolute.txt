@@ -1,0 +1,13 @@
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\bin\Debug\netcoreapp2.0\Encrypter.deps.json
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\bin\Debug\netcoreapp2.0\Encrypter.runtimeconfig.json
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\bin\Debug\netcoreapp2.0\Encrypter.runtimeconfig.dev.json
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\bin\Debug\netcoreapp2.0\Encrypter.dll
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\bin\Debug\netcoreapp2.0\Encrypter.pdb
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\obj\Debug\netcoreapp2.0\Encrypter.csprojResolveAssemblyReference.cache
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\obj\Debug\netcoreapp2.0\Encrypter.csproj.CoreCompileInputs.cache
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\obj\Debug\netcoreapp2.0\Encrypter.AssemblyInfoInputs.cache
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\obj\Debug\netcoreapp2.0\Encrypter.AssemblyInfo.cs
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\obj\Debug\netcoreapp2.0\Encrypter.dll
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\obj\Debug\netcoreapp2.0\Encrypter.pdb
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\bin\Debug\netcoreapp2.0\WebApplicationNCTest.dll
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\Encrypter\bin\Debug\netcoreapp2.0\WebApplicationNCTest.pdb

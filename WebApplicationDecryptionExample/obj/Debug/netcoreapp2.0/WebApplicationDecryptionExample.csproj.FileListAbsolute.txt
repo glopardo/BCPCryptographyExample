@@ -1,0 +1,11 @@
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\bin\Debug\netcoreapp2.0\WebApplicationDecryptionExample.deps.json
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\bin\Debug\netcoreapp2.0\WebApplicationDecryptionExample.runtimeconfig.json
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\bin\Debug\netcoreapp2.0\WebApplicationDecryptionExample.runtimeconfig.dev.json
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\bin\Debug\netcoreapp2.0\WebApplicationDecryptionExample.dll
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\bin\Debug\netcoreapp2.0\WebApplicationDecryptionExample.pdb
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\obj\Debug\netcoreapp2.0\WebApplicationDecryptionExample.csprojResolveAssemblyReference.cache
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\obj\Debug\netcoreapp2.0\WebApplicationDecryptionExample.csproj.CoreCompileInputs.cache
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\obj\Debug\netcoreapp2.0\WebApplicationDecryptionExample.AssemblyInfoInputs.cache
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\obj\Debug\netcoreapp2.0\WebApplicationDecryptionExample.AssemblyInfo.cs
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\obj\Debug\netcoreapp2.0\WebApplicationDecryptionExample.dll
+C:\Lagash\src\Ejemplos\NetCoreWebTest\WebApplicationNCTest\WebApplicationDecryptionExample\obj\Debug\netcoreapp2.0\WebApplicationDecryptionExample.pdb
